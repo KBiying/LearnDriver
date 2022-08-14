@@ -1,0 +1,1 @@
+cmd_/home/bailey/文档/Linux_Driver_Tutorial/mymodule.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/bailey/文档/Linux_Driver_Tutorial/mymodule.ko /home/bailey/文档/Linux_Driver_Tutorial/mymodule.o /home/bailey/文档/Linux_Driver_Tutorial/mymodule.mod.o;  true
